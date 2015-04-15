@@ -16,6 +16,7 @@ public class JavaApplication4 {
      */
     public static void main(String[] args) {
         System.out.print("HOLA A TODOS ");
+        System.out.print("HOLA A TOdoss  ");
     }
     
 }
